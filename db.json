@@ -75,56 +75,6 @@
       "thumb": "/data/images/3.jpg",
       "postImage": "/data/images/3lg.jpg",
       "tags": ["html", "css", "js", "react"]
-    },
-    {
-      "id": 4,
-      "date": "Sunday / 20-9-2020 ",
-      "url": "fourth-post",
-      "title": "fourth post",
-      "body": "This is the fourth post body , Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae nunc posuere, dignissim nulla eget, posuere odio. Nunc interdum, ligula id lobortis tristique, sapien eros mattis nisi, vel aliquam nibh metus a odio. Curabitur sagittis, nisl eget rutrum sodales, nisl nisi maximus tortor, id consequat magna tortor id eros.",
-      "text": [
-        "This is the fourth post bod sagittis, nisl eget rutrum sodales, nisl nisi maximus tortor, id consequat magna tortor id eros.",
-        "This is the fourth post bodyodio. Curabitur sagittis, nisl eget rutrum sodales, nisl nisi maximus tortor, id consequat magna tortor id eros.",
-        "This is the fourth post bod magna tortor id eros.",
-        "This is the fourth post bod mattis nisi, vel aliquam nibh metus a odio. Curabitur sagittis, nisl eget rutrum sodales, nisl nisi maximus tortor, id consequat magna tortor id eros."
-      ],
-      "links": {
-        "ask": "https://www.as.com",
-        "youtube": "https://youtube.com",
-        "seadadesign": "https://abdoseadaa.com",
-        "mobile twitter": "https://mobile.twitter.com",
-        "microsoft": "https://microsoft.com",
-        "pexels": "https://pexels.com"
-      },
-      "footer": "show more",
-      "thumb": "/data/images/4.jpg",
-      "postImage": "/data/images/4lg.jpg",
-      "tags": ["angular", "react", "vue"]
-    },
-    {
-      "id": 5,
-      "date": "Sunday / 20-9-2020 ",
-      "url": "Fifth-post",
-      "title": "Fifth post",
-      "body": "This is the Fifth post body , Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae nunc posuere, dignissim nulla eget, posuere odio. Nunc interdum, ligula id lobortis tristique, sapien eros mattis nisi, vel aliquam nibh metus a odio. Curabitur sagittis, nisl eget rutrum sodales, nisl nisi maximus tortor, id consequat magna tortor id eros.",
-      "text": [
-        "This is the fourth post bod sagittis, nisl eget rutrum sodales, nisl nisi maximus tortor, id consequat magna tortor id eros.",
-        "This is the fourth post bodyodio. Curabitur sagittis, nisl eget rutrum sodales, nisl nisi maximus tortor, id consequat magna tortor id eros.",
-        "This is the fourth post bod magna tortor id eros.",
-        "This is the fourth post bod mattis nisi, vel aliquam nibh metus a odio. Curabitur sagittis, nisl eget rutrum sodales, nisl nisi maximus tortor, id consequat magna tortor id eros."
-      ],
-      "links": {
-        "ask": "https://www.as.com",
-        "youtube": "https://youtube.com",
-        "seadadesign": "https://abdoseadaa.com",
-        "mobile twitter": "https://mobile.twitter.com",
-        "microsoft": "https://microsoft.com",
-        "pexels": "https://pexels.com"
-      },
-      "footer": "show more",
-      "thumb": "/data/images/4.jpg",
-      "postImage": "/data/images/4lg.jpg",
-      "tags": ["angular", "react", "vue"]
     }
   ],
   "projects": [
