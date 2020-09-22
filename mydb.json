@@ -1,0 +1,178 @@
+{
+  "blog": [
+    {
+      "id": 1,
+      "date": "Sunday / 20-9-2020 ",
+      "url": "first-post",
+      "title": "first post",
+      "body": "This is the first post body , Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae nunc posuere, dignissim nulla eget, posuere odio. Nunc interdum, ligula id lobortis tristique, sapien eros mattis nisi, vel aliquam nibh metus a odio. Curabitur sagittis, nisl eget rutrum sodales, nisl nisi maximus tortor, id consequat magna tortor id eros.",
+      "text": [
+        "This is the first post body sagittis, nisl eget rutrum sodales, nisl nisi maximus tortor, id consequat magna tortor id eros.",
+        "This is the first post body odio. Curabitur sagittis, nisl eget rutrum sodales, nisl nisi maximus tortor, id consequat magna tortor id eros.",
+        "This is the first post body magna tortor id eros.",
+        "This is the first post body mattis nisi, vel aliquam nibh metus a odio. Curabitur sagittis, nisl eget rutrum sodales, nisl nisi maximus tortor, id consequat magna tortor id eros."
+      ],
+      "links": {
+        "google": "https://www.google.com",
+        "youtube": "https://www.youtube.com",
+        "seada design": "https://www.abdoseadaa.com",
+        "abdo seada": "https://www.abdoseada.co",
+        "station": "http://www.quran.seada.co",
+        "colors": "https://www.colors.seada.co",
+        "my work": "https://www.work.seada.co",
+        "pexels": "https://www.pexels.com"
+      },
+      "footer": "show more",
+      "thumb": "/data/images/1.jpg",
+      "postImage": "/data/images/1lg.jpg",
+      "tags": ["html", "css", "js"]
+    },
+    {
+      "id": 2,
+      "date": "Sunday / 20-9-2020 ",
+      "url": "second-post",
+      "title": "second post",
+      "body": "This is the second post body , Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae nunc posuere, dignissim nulla eget, posuere odio. Nunc interdum, ligula id lobortis tristique, sapien eros mattis nisi, vel aliquam nibh metus a odio. Curabitur sagittis, nisl eget rutrum sodales, nisl nisi maximus tortor, id consequat magna tortor id eros.",
+      "text": [
+        "This is the second post bod sagittis, nisl eget rutrum sodales, nisl nisi maximus tortor, id consequat magna tortor id eros.",
+        "This is the second post bodyodio. Curabitur sagittis, nisl eget rutrum sodales, nisl nisi maximus tortor, id consequat magna tortor id eros.",
+        "This is the second post bod magna tortor id eros.",
+        "This is the second post bod mattis nisi, vel aliquam nibh metus a odio. Curabitur sagittis, nisl eget rutrum sodales, nisl nisi maximus tortor, id consequat magna tortor id eros."
+      ],
+      "links": {
+        "facebook": "https://www.facebook.com",
+        "youtube": "https://www.youtube.com",
+        "seada design": "https://www.abdoseadaa.com",
+        "abdo seada": "https://www.abdoseada.co",
+        "station": "https:/www.quran.seada.co"
+      },
+      "footer": "show more",
+      "thumb": "/data/images/2.jpg",
+      "postImage": "/data/images/2lg.jpg",
+      "tags": ["html", "css", "angular", "react"]
+    },
+    {
+      "id": 3,
+      "date": "Sunday / 20-9-2020 ",
+      "url": "third-post",
+      "title": "third post",
+      "body": "This is the third post body , Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae nunc posuere, dignissim nulla eget, posuere odio. Nunc interdum, ligula id lobortis tristique, sapien eros mattis nisi, vel aliquam nibh metus a odio. Curabitur sagittis, nisl eget rutrum sodales, nisl nisi maximus tortor, id consequat magna tortor id eros.",
+      "text": [
+        "This is the third post body sagittis, nisl eget rutrum sodales, nisl nisi maximus tortor, id consequat magna tortor id eros.",
+        "This is the third post body odio. Curabitur sagittis, nisl eget rutrum sodales, nisl nisi maximus tortor, id consequat magna tortor id eros.",
+        "This is the third post body magna tortor id eros.",
+        "This is the third post body mattis nisi, vel aliquam nibh metus a odio. Curabitur sagittis, nisl eget rutrum sodales, nisl nisi maximus tortor, id consequat magna tortor id eros."
+      ],
+      "links": {
+        "station": "http://www.quran.seada.co",
+        "colors": "https://www.colors.seada.co",
+        "my work": "https://www.work.seada.co",
+        "mobile twitter": "https://www.mobile.twitter.com",
+        "microsoft": "https://www.microsoft.com",
+        "pexels": "https://www.pexels.com"
+      },
+      "footer": "show more",
+      "thumb": "/data/images/3.jpg",
+      "postImage": "/data/images/3lg.jpg",
+      "tags": ["html", "css", "js", "react"]
+    },
+    {
+      "id": 4,
+      "date": "Sunday / 20-9-2020 ",
+      "url": "fourth-post",
+      "title": "fourth post",
+      "body": "This is the fourth post body , Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae nunc posuere, dignissim nulla eget, posuere odio. Nunc interdum, ligula id lobortis tristique, sapien eros mattis nisi, vel aliquam nibh metus a odio. Curabitur sagittis, nisl eget rutrum sodales, nisl nisi maximus tortor, id consequat magna tortor id eros.",
+      "text": [
+        "This is the fourth post bod sagittis, nisl eget rutrum sodales, nisl nisi maximus tortor, id consequat magna tortor id eros.",
+        "This is the fourth post bodyodio. Curabitur sagittis, nisl eget rutrum sodales, nisl nisi maximus tortor, id consequat magna tortor id eros.",
+        "This is the fourth post bod magna tortor id eros.",
+        "This is the fourth post bod mattis nisi, vel aliquam nibh metus a odio. Curabitur sagittis, nisl eget rutrum sodales, nisl nisi maximus tortor, id consequat magna tortor id eros."
+      ],
+      "links": {
+        "ask": "https://www.as.com",
+        "youtube": "https://youtube.com",
+        "seadadesign": "https://abdoseadaa.com",
+        "mobile twitter": "https://mobile.twitter.com",
+        "microsoft": "https://microsoft.com",
+        "pexels": "https://pexels.com"
+      },
+      "footer": "show more",
+      "thumb": "/data/images/4.jpg",
+      "postImage": "/data/images/4lg.jpg",
+      "tags": ["angular", "react", "vue"]
+    },
+    {
+      "id": 5,
+      "date": "Sunday / 20-9-2020 ",
+      "url": "Fifth-post",
+      "title": "Fifth post",
+      "body": "This is the Fifth post body , Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vitae nunc posuere, dignissim nulla eget, posuere odio. Nunc interdum, ligula id lobortis tristique, sapien eros mattis nisi, vel aliquam nibh metus a odio. Curabitur sagittis, nisl eget rutrum sodales, nisl nisi maximus tortor, id consequat magna tortor id eros.",
+      "text": [
+        "This is the fourth post bod sagittis, nisl eget rutrum sodales, nisl nisi maximus tortor, id consequat magna tortor id eros.",
+        "This is the fourth post bodyodio. Curabitur sagittis, nisl eget rutrum sodales, nisl nisi maximus tortor, id consequat magna tortor id eros.",
+        "This is the fourth post bod magna tortor id eros.",
+        "This is the fourth post bod mattis nisi, vel aliquam nibh metus a odio. Curabitur sagittis, nisl eget rutrum sodales, nisl nisi maximus tortor, id consequat magna tortor id eros."
+      ],
+      "links": {
+        "ask": "https://www.as.com",
+        "youtube": "https://youtube.com",
+        "seadadesign": "https://abdoseadaa.com",
+        "mobile twitter": "https://mobile.twitter.com",
+        "microsoft": "https://microsoft.com",
+        "pexels": "https://pexels.com"
+      },
+      "footer": "show more",
+      "thumb": "/data/images/4.jpg",
+      "postImage": "/data/images/4lg.jpg",
+      "tags": ["angular", "react", "vue"]
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "image": "/data/images/1.jpg"
+    },
+
+    {
+      "id": 2,
+      "image": "/data/images/1.jpg"
+    },
+    {
+      "id": 3,
+      "image": "/data/images/1.jpg"
+    },
+    {
+      "id": 4,
+      "image": "/data/images/1.jpg"
+    },
+    {
+      "id": 5,
+      "image": "/data/images/1.jpg"
+    },
+    {
+      "id": 6,
+      "image": "/data/images/1.jpg"
+    },
+    {
+      "id": 7,
+      "image": "/data/images/1.jpg"
+    }
+  ],
+  "work": [
+    {
+      "id": 1,
+      "amount": 7,
+      "name": "Projects"
+    },
+    {
+      "id": 2,
+      "amount": 10,
+      "name": "On Progress"
+    },
+    {
+      "id": 3,
+      "amount": 3,
+      "name": " Up Comming"
+    }
+  ]
+}
